@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+dannyhpy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 a2workshop: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 mashi: [ns1.desec.io, ns2.desec.org] # Register mashi.wip.la
 cosmiccycle: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
@@ -111,6 +112,7 @@ koskrit: [ns41.cloudns.net,ns42.cloudns.net,ns43.cloudns.net,ns44.cloudns.net] #
 zb: [kiki.bunny.net, coco.bunny.net]
 uros: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register uros.wip.la
 xenon: [kiki.bunny.net, coco.bunny.net]
+cry: [ns1.desec.io, ns2.desec.org] # Register cry.wip.la
 eru: [ns1.gcorelabs.net, ns2.gcdn.services]
 demo: [ns1.linevast.com, ns2.linevast.com, ns1.linevast.com]
 mc: [galileo.aternos.org, columbus.aternos.org]
@@ -155,6 +157,8 @@ bamfotos: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Reg
 ambix: [ns1.gcorelabs.net, ns2.gcdn.services] # Register ambix.wip.la
 workwork: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register workwork.wip.la
 vincyxir: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register vincyxir.wip.la
+vnxrphost: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com] # Register vnxrphost.wip.la
+cloudhosting: [NS1.AFRAID.ORG, NS2.AFRAID.ORG, NS3.AFRAID.ORG, NS4.AFRAID.ORG] # Register cloudhosting.wip.la
 elnexreal: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register elnexreal.wip.la
 milcondev : [arya.ns.cloudflare.com , renan.ns.cloudflare.com]
 hmon: [ns101.cloudns.net, ns102.cloudns.net, ns103.cloudns.net, ns104.cloudns.net] # Register elnexreal.wip.la
@@ -190,6 +194,8 @@ wibumart: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.
 volt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt.wip.la
 a805116: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register a805116.wip.la
 csk-ams: [ns1.dns-parking.com, ns2.dns-parking.com]
+virtualfinance: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 trbot: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 toho: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
+e: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

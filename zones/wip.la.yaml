@@ -17,6 +17,7 @@ tgp24: [chip.ns.cloudflare.com, emma.ns.cloudflare.com]
 synima: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 z: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 rurl: [galilea.ns.cloudflare.com, maciej.ns.cloudflare.com]
+fluffyindustries: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 jpis12cs: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 h21: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 dune: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
@@ -205,6 +206,7 @@ pimachinelearning: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean
 bad-drivers: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 wibumart: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.dns.oraclecloud.net, ns4.p201.dns.oraclecloud.net]
 volt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt.wip.la
+volt-dev: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt-dev.wip.la
 a805116: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register a805116.wip.la
 csk-ams: [ns1.dns-parking.com, ns2.dns-parking.com]
 virtualfinance: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
@@ -226,4 +228,5 @@ sec: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Regist
 ao: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ao.wip.la
 ya: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ya.wip.la
 office9900: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register office9900.wip.la
+verimas: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register verimas.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

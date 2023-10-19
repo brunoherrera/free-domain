@@ -32,6 +32,8 @@ cceducation: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns
 vip: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 u: [ns1.desec.io, ns2.desec.org] # Register u.wip.la
 onerbt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+tgt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+tgt2: [desiree.ns.cloudflare.com, drake.ns.cloudflare.com]
 constanet: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 getitmcserver: [ns-482.awsdns-60.com, ns-1282.awsdns-32.org, ns-630.awsdns-14.net, ns-1841.awsdns-38.co.uk]
 mini: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
@@ -239,5 +241,6 @@ office9900: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.
 get: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register get.wip.la
 verimas: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register verimas.wip.la
 paralecttest: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+play: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register play.wip.la
 jacg: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register jacg.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

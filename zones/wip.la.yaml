@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+1102: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 naz-serv: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register naz-serv.wip.la
 graphify: [ns1.vercel-dns.com, ns2.vercel-dns.com]
 communitybots: [ns1.desec.io, ns2.desec.org]
@@ -196,6 +197,7 @@ minecraft: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # 
 korsilyn: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register korsilyn.wip.la
 gandom: [ns1.gcorelabs.net, ns2.gcdn.services]
 webparalecttest: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+baka: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Added by quadrinex
 kd: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register kd.wip.la
 forgejo: [ns1.gcorelabs.net, ns2.gcdn.services] # Register forgejo.wip.la
 jenkins: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register jenkins.wip.la
@@ -210,6 +212,7 @@ dns: [ns1.desec.io, ns2.desec.org]
 klg-system: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register klg-system.wip.la
 phantomic: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register phantomic.cluster.ws
 phnsrv: [ns1.gcorelabs.net, ns2.gcdn.services]
+bytewave: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 backend: [ns1.desec.io, ns2.desec.org] # Register backend.wip.la
 hexchange: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register hexchange.wip.la
 mycodelab-backend: [curitiba.ns.porkbun.com, fortaleza.ns.porkbun.com, maceio.ns.porkbun.com, salvador.ns.porkbun.com] # Register mycodelab-backend.wip.la
@@ -237,6 +240,7 @@ toho: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 e: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 url: [ns21.cloudns.net, ns22.cloudns.net, ns23.cloudns.net, ns24.cloudns.net]
 o: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+n: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 x: [ns1.ns1.desec.io, ns2.desec.org]
 music: [ns41.cloudns.net, ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register music.wip.la
 hub: [ns1.ns1.desec.io, ns2.desec.org]
@@ -269,6 +273,7 @@ now: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Regist
 nows: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register nows.wip.la
 micro: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register micro.wip.la
 mx: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register mx.wip.la
+sarraf: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register sarraf.wip.la
 px: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 shopy: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
 shapi: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
@@ -277,5 +282,22 @@ djiapi: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 ship-marketplace: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 galseid: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 pocholo: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
+test-domain: [ns1.fweb.gq, ns2.fweb.gq, ns3.fweb.gq, ns4.fweb.gq]
+test-domain2: [ns1.fweb.gq, ns2.fweb.gq, ns3.fweb.gq, ns4.fweb.gq]
+test-domain-foo: [ns1.fweb.ga, ns2.fweb.ga, ns3.fweb.ga, ns4.fweb.ga]
+test-from-santiago: [ns1.fweb.ga, ns2.fweb.ga, ns3.fweb.ga, ns4.fweb.ga]
+last-test-sorry: [ns1.fweb.ga, ns2.fweb.ga, ns3.fweb.ga, ns4.fweb.ga]
+last-test-sorry2: [ns1.fweb.ga, ns2.fweb.ga, ns3.fweb.ga, ns4.fweb.ga]
+test2: [ns1.fweb.gq, ns2.fweb.gq, ns3.fweb.gq, ns4.fweb.gq]
+test3: [ns1.fweb.gq, ns2.fweb.gq, ns3.fweb.gq, ns4.fweb.gq]
+fgddfghdfgh: [ns1.fweb.gq, ns2.fweb.gq, ns3.fweb.gq, ns4.fweb.gq]
+fgddfghdfghgdfdf: [ns1.fweb.gq, ns2.fweb.gq, ns3.fweb.gq, ns4.fweb.gq]
+last-dev-test: [ns1.fweb.gq, ns2.fweb.gq, ns3.fweb.gq, ns4.fweb.gq]
+last-dev-test2: [ns1.fweb.gq, ns2.fweb.gq, ns3.fweb.gq, ns4.fweb.gq]
+last-dev-test3: [ns1.fweb.gq, ns2.fweb.gq, ns3.fweb.gq, ns4.fweb.gq]
+musiguesser: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+kyros: [kyros.wip.la, kyros.pages.dev, kyros.wip.la, kyros.wip.la]
+waves-server: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org]
+d1: [ns1.desec.io, ns2.desec.org, ns1.desec.io, ns1.desec.io]
 pupa: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

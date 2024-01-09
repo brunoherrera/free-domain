@@ -6,6 +6,10 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+leaf5ter: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+artgame: [ns1.desec.io, ns2.desec.org]
+farel: [helium.ns.hetzner.de, oxygen.ns.hetzner.com, hydrogen.ns.hetzner.com]
+foo: [ns1.desec.io, ns2.desec.org]
 1102: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 naz-serv: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register naz-serv.wip.la
 graphify: [ns1.vercel-dns.com, ns2.vercel-dns.com]
@@ -299,5 +303,7 @@ musiguesser: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 kyros: [kyros.wip.la, kyros.pages.dev, kyros.wip.la, kyros.wip.la]
 waves-server: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org]
 d1: [ns1.desec.io, ns2.desec.org, ns1.desec.io, ns1.desec.io]
+schulsani: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 pupa: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com]
+higgs: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

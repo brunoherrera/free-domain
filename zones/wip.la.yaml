@@ -6,8 +6,10 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+py: [dns1.serv00.com, dns2.serv00.com]
 ps: [ns1.desec.io, ns2.desec.org]
 k: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+m: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 wiish: [dns1.serv00.com, dns2.serv00.com] # Register wiish.wip.la
 wiisc: [dns1.serv00.com, dns2.serv00.com]
 leaf5ter: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
@@ -47,6 +49,7 @@ vip: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 u: [ns1.desec.io, ns2.desec.org] # Register u.wip.la
 onerbt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 tgt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+z1g: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 swac: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 status: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 tgt2: [desiree.ns.cloudflare.com, drake.ns.cloudflare.com]
@@ -236,6 +239,7 @@ oc: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # R
 pimachinelearning: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 bad-drivers: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 wibuapi: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register wibuapi.wip.la
+testshopyweb: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register testshopyweb.wip.la
 wibumart: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.dns.oraclecloud.net, ns4.p201.dns.oraclecloud.net]
 volt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt.wip.la
 volt-dev: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt-dev.wip.la
@@ -264,6 +268,7 @@ sec: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Regist
 ao: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ao.wip.la
 ya: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ya.wip.la
 office9900: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register office9900.wip.la
+webshopy: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net] # Register webshopy.wip.la
 get: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register get.wip.la
 verimas: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register verimas.wip.la
 pinarro: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register pinarro.wip.la
@@ -272,6 +277,7 @@ valmyapptest: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudn
 play: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register play.wip.la
 fr : [galileo.aternos.org, columbus.aternos.org] # Register fr.wip.la
 sergiy0: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register sergio.wip.la
+shopyweb: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register shopyweb.wip.la
 sergio: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register sergio.wip.la
 ship-test-task: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register ship-test-task.wip.la
 jacg: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register jacg.wip.la
